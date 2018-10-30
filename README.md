@@ -1,7 +1,7 @@
 # Clone of the Mobile Game "Helix Jump"
 
-Instead of rotating the plattforms, player rotate the Ball around the pole. 
+Instead of rotating the plattforms, player rotate the Ball around the pole. It is made in Unity3D and focuses on Android Devices.
 
-![alt text](https://github.com/Robin-Assmann/shoot-ball/blob/master/wiki/Menu.PNG)
-![alt text](https://github.com/Robin-Assmann/shoot-ball/blob/master/wiki/Start.PNG)
-![alt text](https://github.com/Robin-Assmann/shoot-ball/blob/master/wiki/Play.PNG)
+![alt text](https://github.com/Robin-Assmann/HelixRoll/blob/master/wiki/0.PNG)
+![alt text](https://github.com/Robin-Assmann/HelixRoll/blob/master/wiki/3.PNG)
+![alt text](https://github.com/Robin-Assmann/HelixRoll/blob/master/wiki/16.PNG)
